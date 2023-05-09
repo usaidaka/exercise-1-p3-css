@@ -285,6 +285,9 @@ main .bottom .main-bottom-text h6 {
 aside.right .biography {
   margin-bottom: 20px;
 }
+aside.right .biography p {
+  text-align: justify;
+}
 aside.right .website {
   margin-bottom: 30px;
 }
